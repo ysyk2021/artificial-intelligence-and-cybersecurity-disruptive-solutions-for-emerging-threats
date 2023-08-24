@@ -1,5 +1,3 @@
-Chapter 7: AI Ethics and Governance for Cybersecurity
-=====================================================
 
 As artificial intelligence (AI) becomes more prevalent in cybersecurity, it is important to consider the ethical implications of its implementation. In this chapter, we will discuss the ethical considerations for AI implementation in cybersecurity, developing governance frameworks to ensure responsible AI use, and legal and regulatory considerations for AI implementation in cybersecurity.
 

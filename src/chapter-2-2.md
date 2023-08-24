@@ -1,5 +1,3 @@
-Types of AI used for Cybersecurity
-=================================================================================
 
 Artificial intelligence (AI) technology is becoming increasingly important in the field of cybersecurity. In this chapter, we will explore the different types of AI used for cybersecurity.
 

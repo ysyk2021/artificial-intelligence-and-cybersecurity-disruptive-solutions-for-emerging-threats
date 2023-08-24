@@ -1,5 +1,3 @@
-Case Studies of Successful AI Implementations in Cyber Attack Response
-===============================================================================================================================================
 
 Several businesses have successfully implemented AI technology for cyber attack response. These case studies provide insights into the benefits and challenges of using AI for cyber attack response.
 

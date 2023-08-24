@@ -1,5 +1,3 @@
-Overview of AI Applications for Cyber Attack Response
-==============================================================================================================================
 
 Artificial intelligence (AI) technology can significantly enhance the response to cyber attacks. In this chapter, we will explore the different ways in which AI can be implemented for more effective response to cyber attacks.
 

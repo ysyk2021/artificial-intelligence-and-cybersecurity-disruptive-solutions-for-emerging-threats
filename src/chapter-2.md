@@ -1,5 +1,3 @@
-Chapter 1: Understanding AI for Cybersecurity
-=============================================
 
 Artificial intelligence (AI) is rapidly becoming an essential tool in the field of cybersecurity. In this chapter, we will explore the definition of AI, types of AI used for cybersecurity, and the benefits of using AI to address emerging threats.
 

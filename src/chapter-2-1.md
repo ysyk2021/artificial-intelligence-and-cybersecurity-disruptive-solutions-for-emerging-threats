@@ -1,5 +1,3 @@
-Definition of AI
-===============================================================
 
 Artificial intelligence (AI) is a rapidly evolving field that has the potential to transform many industries, including cybersecurity. In this chapter, we will provide an overview of AI and its applications in cybersecurity.
 

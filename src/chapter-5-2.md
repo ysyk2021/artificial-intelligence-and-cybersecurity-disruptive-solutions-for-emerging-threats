@@ -1,5 +1,3 @@
-Best Practices for Data Collection and Preparation
-=========================================================================================================
 
 Effective data collection and preparation are critical to the success of using artificial intelligence (AI) for threat detection and analysis in cybersecurity. In this chapter, we will discuss best practices for data collection and preparation.
 

@@ -1,5 +1,3 @@
-Benefits of AI for Addressing Emerging Threats
-=============================================================================================
 
 Artificial intelligence (AI) technology is increasingly being used to enhance cybersecurity. In this chapter, we will explore the benefits of AI for addressing emerging threats.
 
